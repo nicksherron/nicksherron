@@ -338,7 +338,7 @@
                         </svg>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
                             <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="0.09211815763684728 329"/>
+                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="0.09210526315789473 329"/>
                             <text x="15" y="15" dominant-baseline="central">2</text>
                         </svg>
                         <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2472,7 +2472,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dtm-labs/dtm</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A distributed transaction framework that supports multiple languages, supports saga, tcc, xa, 2-phase message, outbox patterns.</div>
@@ -2525,7 +2525,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cue-lang/cue</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The new home of the CUE language! Validate and define text-based and dynamic configuration</div>
@@ -3385,7 +3385,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Apr 2022, 16:01:32 (timezone America/New_York) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 10 Apr 2022, 17:01:29 (timezone America/New_York) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
