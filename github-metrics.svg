@@ -2503,7 +2503,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dtm-labs/dtm</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A distributed transaction framework that supports multiple languages, supports saga, tcc, xa, 2-phase message, outbox patterns.</div>
@@ -2556,7 +2556,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cue-lang/cue</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The new home of the CUE language! Validate and define text-based and dynamic configuration</div>
@@ -3416,7 +3416,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Apr 2022, 09:10:14 (timezone America/New_York) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 14 Apr 2022, 10:01:26 (timezone America/New_York) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
