@@ -2512,7 +2512,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dtm-labs/dtm</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A distributed transaction framework that supports multiple languages, supports saga, tcc, xa, 2-phase message, outbox patterns.</div>
@@ -2565,7 +2565,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cue-lang/cue</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The new home of the CUE language! Validate and define text-based and dynamic configuration</div>
@@ -3137,7 +3137,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 337k out of 90m users</span>
+                                    <span class="gh">ranked 338k out of 90m users</span>
                                 </div>
                                 <div class="text">Followed by 25 users</div>
                             </div>
@@ -3433,7 +3433,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 May 2022, 09:07:33 (timezone America/New_York) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 1 May 2022, 10:01:35 (timezone America/New_York) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
