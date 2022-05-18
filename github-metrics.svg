@@ -263,7 +263,7 @@
                         </svg>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
                             <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="0.08673872923807013 329"/>
+                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="0.0867272966917095 329"/>
                             <text x="15" y="15" dominant-baseline="central">2</text>
                         </svg>
                         <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -869,15 +869,15 @@
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.6956521739130435 0,2.6956521739130435 z"/>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.6956521739130435 1.7,3.6956521739130435 z"/>
                             </g>
-                            <g transform="translate(-5.1, 6.913043478260869)">
+                            <g transform="translate(-5.1, 6.782608695652174)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.086956521739131 0,3.0869565217391304 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.0869565217391304 1.7,4.086956521739131 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.217391304347826 0,3.217391304347826 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.217391304347826 1.7,4.217391304347826 z"/>
                             </g>
-                            <g transform="translate(-6.8, 8.043478260869566)">
+                            <g transform="translate(-6.8, 8.173913043478262)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.9565217391304346 0,2.9565217391304346 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.9565217391304346 1.7,3.9565217391304346 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.8260869565217392 0,2.8260869565217392 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.8260869565217392 1.7,3.8260869565217392 z"/>
                             </g>
                             <g transform="translate(-8.5, 9.565217391304348)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -3211,7 +3211,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 May 2022, 06:01:26 (timezone America/New_York) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 18 May 2022, 07:01:23 (timezone America/New_York) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
